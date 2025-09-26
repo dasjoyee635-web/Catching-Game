@@ -27,4 +27,5 @@ A fun and interactive web-based mini game where players catch falling objects wi
 You can try the game by opening `index.html` in your browser.
 
 ## Installation
+https://dasjoyee635-web.github.io/Catching-Game/
 
